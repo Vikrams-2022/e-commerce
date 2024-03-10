@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us</title>
+    <link rel="stylesheet" href="styles1.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="/">Home</a>
+            <a href="/products">Products</a>
+            <a href="/about">About</a>
+            <a href="/contact">Contact</a>
+        </nav>
+    </header>
+    <main>
+        <section class="about-section">
+            <h1>About Us</h1>
+            <p>Welcome to our e-commerce site! We are passionate about providing high-quality products and excellent customer service. Our goal is to make your shopping experience enjoyable and convenient.</p>
+            <p>Feel free to explore our website and discover our wide range of products. If you have any questions or feedback, don't hesitate to contact us.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Your E-commerce Site. All rights reserved.</p>
+    </footer>
+</body>
+</html>
